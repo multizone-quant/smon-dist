@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/smon-dist/static/css/main.401a9dc5.css",
-    "main.js": "/smon-dist/static/js/main.d67c0ba8.js",
+    "main.js": "/smon-dist/static/js/main.d2efc00b.js",
     "static/media/logo.svg": "/smon-dist/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/smon-dist/index.html",
     "main.401a9dc5.css.map": "/smon-dist/static/css/main.401a9dc5.css.map",
-    "main.d67c0ba8.js.map": "/smon-dist/static/js/main.d67c0ba8.js.map"
+    "main.d2efc00b.js.map": "/smon-dist/static/js/main.d2efc00b.js.map"
   },
   "entrypoints": [
     "static/css/main.401a9dc5.css",
-    "static/js/main.d67c0ba8.js"
+    "static/js/main.d2efc00b.js"
   ]
 }
